@@ -41,5 +41,5 @@
 <p align="center">
     <h5 align="center">know more about me</h5>
     <h1 align="center">
-    <a href="https://www.petros.herokuapp.com/" alt="blog"> <img  width="100" height="100" src="./assets/ptrf.svg"> </a></h1>
+    <a href="https://petros.herokuapp.com/" alt="blog"> <img  width="100" height="100" src="./assets/ptrf.svg"> </a></h1>
 </p>
