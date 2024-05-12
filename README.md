@@ -3,8 +3,8 @@
 
 <br />
 
-<p align="center">
-    <h5 align="center">know more about me</h5>
-    <h1 align="center">
-    <a href="https://mazyar.info/" alt="blog" target="_blank"> <img  width="100" height="100" src="./assets/ptrf.svg"> </a></h1>
-</p>
+
+<h5 align="center">know more about me</h5>
+<h5 align="center">
+<a href="https://mazyar.info/" alt="blog" target="_blank"> <img  width="100" height="100" src="./assets/maz-logo-back-red.png"> </a></h5>
+
