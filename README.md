@@ -1,4 +1,4 @@
-## Blockchain / Backend Developer / Linux system administration
+## Blockchain / Backend Developer / Linux System Administration
 #### As a self-taught developer, my curiosity and my motivation always push me to create new things, it allowed me to learn autonomy through blockchain, web development, and Linux system administration.
 
 <br />
